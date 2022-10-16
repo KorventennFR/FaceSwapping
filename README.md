@@ -40,3 +40,7 @@ Matplot : lastest
 
 (Ligne de commande d'installation disponible dans le fichier requirements.txt)
 
+*********************
+CONTACT :
+*********************
+If you have any questions you can contact me at: lussiez.corentin@gmx.com
